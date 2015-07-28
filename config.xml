@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>	<widget xmlns = "http://www.w3.org/ns/widgets"		xmlns:gap = "http://phonegap.com/ns/1.0"		id        = "com.cne.delegados"		versionCode="1.0"		version   = "1.0">		<name>Delegados</name>		<description>Delegados de la Justicia Nacional Electoral 
+<?xml version="1.0" encoding="UTF-8"?>	<widget xmlns = "http://www.w3.org/ns/widgets"		xmlns:gap = "http://phonegap.com/ns/1.0"		id        = "com.cne.delegados"		versionCode="2.0"		version   = "2.0">		<name>Delegados</name>		<description>Delegados de la Justicia Nacional Electoral 
 Elecciones 2015 
-Version 1.0
+Version 2.0
 Cámara Nacional Electoral
 Poder Judicial de la Nación
 República Argentina		</description>		<author href="http://www.electoral.gov.ar" email="gerardo.fabiano@pjn.gov.ar">Gerardo Fabiano		</author>		<preference name="permissions" value="none"/>
